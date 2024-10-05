@@ -1,0 +1,51 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+      {
+        "id": 2,
+        "name": "张无忌",
+        "image": "https://example.com/image1.jpg",
+        "gender": 1,
+        "job": "教师",
+        "entrydate": "2010-06-15",
+        "updatetime": "2023-01-10 09:30:00"
+      },
+      {
+        "id": 3,
+        "name": "赵敏",
+        "image": "https://example.com/image2.jpg",
+        "gender": 0,
+        "job": "学生",
+        "entrydate": "2015-09-01",
+        "updatetime": "2024-05-20 14:15:00"
+      },
+      {
+        "id": 4,
+        "name": "杨过",
+        "image": "https://example.com/image3.jpg",
+        "gender": 1,
+        "job": "讲师",
+        "entrydate": "2018-03-12",
+        "updatetime": "2024-02-28 10:45:00"
+      },
+      {
+        "id": 5,
+        "name": "小龙女",
+        "image": "https://example.com/image4.jpg",
+        "gender": 0,
+        "job": "研究生",
+        "entrydate": "2020-04-20",
+        "updatetime": "2024-03-15 16:00:00"
+      },
+      {
+        "id": 6,
+        "name": "黄蓉",
+        "image": "https://example.com/image5.jpg",
+        "gender": 0,
+        "job": "校医",
+        "entrydate": "2012-11-30",
+        "updatetime": "2024-01-05 08:30:00"
+      }
+    ]
+  }
